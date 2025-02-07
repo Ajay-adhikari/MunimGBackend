@@ -1,0 +1,275 @@
+2025-01-24T07:32:14.789Z [info]: [Validation], Token not found
+2025-01-24T07:32:14.800Z [info]: [Validation], Error: JsonWebTokenError: jwt must be provided
+2025-01-24T07:32:24.468Z [info]: [Validation], error: [object Object],[object Object]
+2025-01-24T07:33:16.913Z [info]: [Validation], error: [object Object],[object Object]
+2025-01-24T07:34:01.484Z [info]: [Validation], error: [object Object],[object Object]
+2025-01-24T07:34:43.056Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+]
+2025-01-24T07:35:22.611Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "number",
+    "path": [
+      "password"
+    ],
+    "message": "Expected string, received number"
+  }
+]
+2025-01-24T07:35:31.818Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-24T07:35:31.996Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-24T07:36:00.516Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:36:40.821Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:37:29.989Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:38:04.984Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:38:26.786Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:38:47.459Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:39:19.281Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:44:33.789Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:45:18.310Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:46:02.814Z [info]: [Validate], Error: JsonWebTokenError: invalid token
+2025-01-24T07:52:56.588Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "address"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "phone"
+    ],
+    "message": "Required"
+  }
+]
+2025-01-24T07:56:00.755Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "address"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "phone"
+    ],
+    "message": "Required"
+  }
+]
+2025-01-24T07:58:33.717Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "validation": "regex",
+    "code": "invalid_string",
+    "message": "Enter valid Phone Number",
+    "path": [
+      "phone"
+    ]
+  }
+]
+2025-01-24T07:58:36.921Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "validation": "regex",
+    "code": "invalid_string",
+    "message": "Enter valid Phone Number",
+    "path": [
+      "phone"
+    ]
+  }
+]
+2025-01-24T07:59:19.045Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "validation": "regex",
+    "code": "invalid_string",
+    "message": "Enter valid Phone Number",
+    "path": [
+      "phone"
+    ]
+  }
+]
+2025-01-24T08:00:35.826Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "validation": "regex",
+    "code": "invalid_string",
+    "message": "Enter valid Phone Number",
+    "path": [
+      "phone"
+    ]
+  }
+]
+2025-01-24T08:01:15.409Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  },
+  {
+    "validation": "regex",
+    "code": "invalid_string",
+    "message": "Enter valid Phone Number",
+    "path": [
+      "phone"
+    ]
+  }
+]
+2025-01-24T08:01:24.551Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "userId"
+    ],
+    "message": "Required"
+  }
+]
+2025-01-24T08:02:44.203Z [info]: [ShopsController][add]
+2025-01-24T08:03:31.202Z [info]: [ShopsController][add]
+2025-01-24T08:03:31.226Z [info]: [ShopsController][add]
+2025-01-24T08:03:47.522Z [info]: [ShopsController][add]
+2025-01-24T08:03:47.529Z [info]: [ShopsController][add]
+2025-01-24T08:05:03.223Z [info]: [ShopsController][add]
+2025-01-24T08:05:03.247Z [info]: [ShopsController][add]
+2025-01-24T08:05:34.397Z [info]: [ShopsController][add]
+2025-01-24T08:05:34.419Z [info]: [ShopsController][add], Error: SequelizeDatabaseError: Unknown column 'user_id' in 'field list'
+2025-01-24T08:05:58.926Z [info]: [ShopsController][add]
+2025-01-24T08:05:58.958Z [info]: [ShopsController][add]
+2025-01-24T08:08:13.571Z [info]: [ShopsController][add], id: [11], name: [Ajay Shop], address: [Tv Tower Lal Phatak Bareilly], phone: [1234123410], Adding shop
+2025-01-24T08:08:13.582Z [info]: [ShopsController][add], id: [11], name: [Ajay Shop], address: [Tv Tower Lal Phatak Bareilly], phone: [1234123410], Shop Added Successfully
+2025-01-24T08:08:39.981Z [info]: [ShopsController][add], id: [11], name: [Ajay Shop], address: [Tv Tower Lal Phatak Bareilly], phone: [1234123410], Adding shop
+2025-01-24T08:08:39.999Z [info]: [ShopsController][add], id: [11], name: [Ajay Shop], address: [Tv Tower Lal Phatak Bareilly], phone: [1234123410], Shop already exists
+2025-01-24T08:36:09.887Z [info]: [Validate], Token not found
+2025-01-24T08:36:09.891Z [info]: [Validate], Error: JsonWebTokenError: jwt must be provided
+2025-01-24T08:36:18.150Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:36:18.151Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:39:44.752Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:39:44.756Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:41:12.481Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:41:12.482Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:41:40.513Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:41:40.515Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:42:02.150Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:42:02.152Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:42:29.958Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:42:29.960Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:42:43.185Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:42:43.187Z [info]: [UserController][getUserDetails], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-01-24T08:43:57.366Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:43:57.408Z [info]: [UserController][getUserDetails], Error: SequelizeDatabaseError: Unknown column 'e.shopId' in 'on clause'
+2025-01-24T08:44:51.904Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:44:51.920Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-24T08:46:05.061Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:46:05.074Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-24T08:46:21.645Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:46:21.658Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-24T08:46:36.816Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:46:36.829Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-24T08:46:47.866Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:46:47.881Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-24T08:47:09.238Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-24T08:47:09.251Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully

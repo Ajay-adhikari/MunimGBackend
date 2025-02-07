@@ -1,0 +1,67 @@
+2025-01-23T05:32:06.681Z [info]: [Validation], error: [object Object]
+2025-01-23T05:32:24.109Z [info]: [Validation], error: [object Object]
+2025-01-23T05:32:37.471Z [info]: [VendorController][register], Email: [vijhay@gmail.com], Password: [12123123], Phone: [6767676760], Name: [ajay]
+2025-01-23T05:32:37.493Z [info]: [VendorController][register],vijhay@gmail.com already exists
+2025-01-23T05:32:44.434Z [info]: [Validation], error: [object Object]
+2025-01-23T05:32:49.306Z [info]: [VendorController][register], Email: [vijhay@gmail.com], Password: [12123123], Phone: [0676767670], Name: [ajay]
+2025-01-23T05:32:49.327Z [info]: [VendorController][register],vijhay@gmail.com already exists
+2025-01-23T05:33:17.966Z [info]: [Validation], error: [object Object]
+2025-01-23T05:33:26.408Z [info]: [VendorController][register], Email: [vijhay@ookok.com], Password: [12123123], Phone: [0676767670], Name: [ajay]
+2025-01-23T05:33:26.448Z [info]: [VendorController][register] ,Email:vijhay@ookok.com, registered successfully
+2025-01-23T05:33:46.368Z [info]: [VendorController][register], Email: [vijhay@ookok.cm], Password: [12123123], Phone: [0676767670], Name: [ajay]
+2025-01-23T05:33:46.379Z [info]: [VendorController][register],vijhay@ookok.cm already exists
+2025-01-23T05:33:57.025Z [info]: [VendorController][register], Email: [vijhay@ookok.cm], Password: [12123123], Phone: [0676267670], Name: [ajay]
+2025-01-23T05:33:57.069Z [info]: [VendorController][register] ,Email:vijhay@ookok.cm, registered successfully
+2025-01-23T05:34:06.670Z [info]: [Validation], error: [object Object]
+2025-01-23T05:34:50.016Z [info]: [Validation], error: [object Object],[object Object]
+2025-01-23T05:42:46.129Z [info]: [UserController][register], Email: [mnaay@ookok.cm], Password: [121sdsdds23], Phone: [1212121212], Name: [ajay]
+2025-01-23T05:42:46.202Z [info]: [UserController][register] ,Email:mnaay@ookok.cm, registered successfully
+2025-01-23T05:53:37.416Z [info]: [UserController][register], Email: [mnaay@ookok.cm], Password: [121sdsdds23], Phone: [1212121212], Name: [ajay]
+2025-01-23T05:53:37.427Z [info]: [UserController][register],mnaay@ookok.cm already exists
+2025-01-23T05:53:55.052Z [info]: [UserController][register], Email: [mnaday@ookok.cm], Password: [121sdsdds23], Phone: [1212321212], Name: [ajay]
+2025-01-23T05:53:55.296Z [info]: [UserController][register] ,Email:mnaday@ookok.cm, registered successfully
+2025-01-23T06:00:22.102Z [info]: [UserController][register], Email: [monday@ookok.cm], Password: [121sdsdds23], Phone: [1452321212], Name: [ajay]
+2025-01-23T06:00:22.162Z [info]: [UserController][register] ,Email:monday@ookok.cm, registered successfully
+2025-01-23T06:14:36.804Z [info]: [UserController][register], Email: [sunday@ookok.cm], Password: [121sdsdds23], Phone: [1452321212], Name: [ajay]
+2025-01-23T06:14:36.819Z [info]: [UserController][register],sunday@ookok.cm already exists
+2025-01-23T06:14:42.780Z [info]: [UserController][register], Email: [sunday@ookok.cm], Password: [121sdsdds23], Phone: [1452231212], Name: [ajay]
+2025-01-23T06:14:42.853Z [info]: [UserController][register] ,Email:sunday@ookok.cm, registered successfully
+2025-01-23T06:15:22.646Z [info]: [UserController][register], Email: [sunday@ookok.cm], Password: [1sdsdds23], Phone: [8998231212], Name: [ajay]
+2025-01-23T06:15:22.655Z [info]: [UserController][register],sunday@ookok.cm already exists
+2025-01-23T06:15:31.889Z [info]: [UserController][register], Email: [friday@ookok.cm], Password: [1sdsdds23], Phone: [8998231212], Name: [ajay]
+2025-01-23T06:15:31.950Z [info]: [UserController][register] Error: Positional replacement (?) 2 has no entry in the replacement map (replacements[2] is undefined).
+2025-01-23T06:16:46.208Z [info]: [UserController][register], Email: [friday@ookok.cm], Password: [1sdsdds23], Phone: [8998231212], Name: [ajay]
+2025-01-23T06:16:46.270Z [info]: [UserController][register] Error: Positional replacement (?) 2 has no entry in the replacement map (replacements[2] is undefined).
+2025-01-23T06:17:21.513Z [info]: [UserController][register], Email: [friday@ookok.cm], Password: [1sdsdds23], Phone: [8998231212], Name: [ajay]
+2025-01-23T06:17:21.579Z [info]: [UserController][register] Error: Positional replacement (?) 2 has no entry in the replacement map (replacements[2] is undefined).
+2025-01-23T06:18:13.870Z [info]: [UserController][register], Email: [friday@ookok.cm], Password: [1sdsdds23], Phone: [8998231212], Name: [ajay]
+2025-01-23T06:18:13.948Z [info]: [UserController][register] ,Email:friday@ookok.cm, registered successfully
+2025-01-23T06:33:21.106Z [info]: [UserController][register], Email: [testing@gmail.com], Password: [12341234], Phone: [1234567890], Name: [ajay]
+2025-01-23T06:33:21.230Z [info]: [UserController][register] ,Email:testing@gmail.com, registered successfully
+2025-01-23T06:40:37.745Z [info]: [UserController][register], Email: [testing@gmail.com], Password: [12341234], Phone: [1234567890], Name: [ajay]
+2025-01-23T06:40:37.760Z [info]: [UserController][register],testing@gmail.com already exists
+2025-01-23T06:41:07.466Z [info]: [UserController][register], Email: [testing@gmail.com], Password: [12341234], Phone: [1234567890], Name: [ajay]
+2025-01-23T06:41:07.472Z [info]: [UserController][register],testing@gmail.com already exists
+2025-01-23T06:41:11.806Z [info]: [UserController][login] TypeError: UserQueries_1.default.getUserByEmail is not a function
+2025-01-23T06:42:08.178Z [info]: [UserController][login] Error: data and hash arguments required
+2025-01-23T06:44:31.495Z [info]: [Validation], error: [object Object]
+2025-01-23T06:44:57.869Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:45:08.555Z [info]: [Validation], error: [object Object]
+2025-01-23T06:45:14.238Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:47:46.084Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:48:19.697Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:48:41.081Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:48:51.416Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:49:02.610Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:49:53.038Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-23T06:49:53.042Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:51:51.433Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-23T06:51:51.449Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:54:26.074Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-23T06:54:26.085Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:58:14.432Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-23T06:58:14.437Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:58:21.754Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-23T06:58:21.757Z [info]: [UserController][login], Error: Error: data and hash arguments required
+2025-01-23T06:59:01.083Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-23T06:59:01.161Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully

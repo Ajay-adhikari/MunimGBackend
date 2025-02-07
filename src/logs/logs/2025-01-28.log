@@ -1,0 +1,153 @@
+2025-01-28T04:57:48.040Z [info]: hello world, Welcome to MunimApp
+2025-01-28T05:05:00.261Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T05:05:00.547Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T05:08:12.322Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "email"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "password"
+    ],
+    "message": "Required"
+  }
+]
+2025-01-28T05:13:14.160Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T05:13:14.337Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T05:14:52.617Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T05:14:52.699Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T05:33:37.387Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:33:37.473Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:35:22.749Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T05:35:22.884Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T05:36:38.783Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T05:36:38.851Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T05:37:02.618Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:37:02.633Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:37:40.770Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:37:40.790Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:42:33.544Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:42:33.550Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:43:04.607Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:43:04.614Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:44:53.298Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:44:53.305Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:45:01.607Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T05:45:01.613Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T05:45:11.337Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T05:45:11.457Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T06:04:07.540Z [info]: [UserController][login], Email: [testing100@gmail.con], Password: [12341234]
+2025-01-28T06:04:07.683Z [info]: [UserController][login],Email:testing100@gmail.con not found
+2025-01-28T06:06:41.150Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T06:06:41.503Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T06:07:13.316Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T06:07:13.359Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T06:07:44.213Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T06:07:44.232Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T06:07:52.718Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T06:07:52.726Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T06:22:04.862Z [info]: [UserController][login], Email: [Jsjss@gmail.com], Password: [12341234]
+2025-01-28T06:22:05.003Z [info]: [UserController][login],Email:Jsjss@gmail.com not found
+2025-01-28T06:22:06.358Z [info]: [UserController][login], Email: [Jsjss@gmail.com], Password: [12341234]
+2025-01-28T06:22:06.361Z [info]: [UserController][login],Email:Jsjss@gmail.com not found
+2025-01-28T06:22:52.484Z [info]: [UserController][login], Email: [Jsjss@gmail.com], Password: [12341234]
+2025-01-28T06:22:52.499Z [info]: [UserController][login],Email:Jsjss@gmail.com not found
+2025-01-28T06:22:53.661Z [info]: [UserController][login], Email: [Jsjss@gmail.com], Password: [12341234]
+2025-01-28T06:22:53.664Z [info]: [UserController][login],Email:Jsjss@gmail.com not found
+2025-01-28T06:23:46.997Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:23:47.028Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:24:33.648Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:24:33.675Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:24:39.662Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:24:39.666Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:24:46.878Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:24:46.885Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:04.461Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:04.474Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:16.939Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:16.959Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:40.898Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:40.932Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:52.583Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:52.593Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:56.564Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:56.567Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:58.788Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:58.790Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:25:59.868Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:25:59.870Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:26:03.898Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Hsushdhdhh]
+2025-01-28T06:26:03.914Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:26:26.897Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Uxudududydd]
+2025-01-28T06:26:26.915Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:29:10.068Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Uxudududydd]
+2025-01-28T06:29:10.092Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:29:27.428Z [info]: [UserController][login], Email: [Hdhs@gmail.com], Password: [Uxudududydd]
+2025-01-28T06:29:27.448Z [info]: [UserController][login],Email:Hdhs@gmail.com not found
+2025-01-28T06:29:48.938Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T06:29:49.028Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:36:44.590Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:36:44.686Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:49:40.920Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:49:41.032Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:49:49.818Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:49:49.881Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:50:15.632Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:50:15.735Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:51:21.440Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:51:21.547Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:52:41.709Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:52:41.813Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:53:15.062Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:53:15.149Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:55:59.774Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:55:59.873Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T07:57:32.104Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T07:57:32.197Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T08:23:13.427Z [info]: [UserController][login], Email: [testing100@gmail.com], Password: [12341234]
+2025-01-28T08:23:13.569Z [info]: [UserController][login],Email:testing100@gmail.com not found
+2025-01-28T08:23:18.787Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T08:23:18.868Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T08:26:45.084Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T08:26:45.205Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:02:47.656Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [123412345]
+2025-01-28T10:02:47.780Z [info]: [UserController][login], Email:testing@gmail.com, Password: 123412345, password is incorrect
+2025-01-28T10:03:10.108Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:03:10.174Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:03:36.589Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:03:36.668Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:03:44.017Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:03:44.075Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:04:21.854Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:04:21.964Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:04:34.493Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:04:34.578Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:05:11.276Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:05:11.356Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:05:55.591Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:05:55.685Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:07:25.639Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:07:25.718Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:08:00.842Z [info]: [UserController][login], Email: [teating@gmail.com], Password: [12341234]
+2025-01-28T10:08:00.863Z [info]: [UserController][login],Email:teating@gmail.com not found
+2025-01-28T10:08:10.393Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:08:10.476Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:10:36.499Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:10:36.563Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:12:33.675Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:12:33.741Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:38:14.233Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:38:14.490Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T10:54:42.910Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T10:54:43.006Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-28T11:05:21.378Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-28T11:05:21.453Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully

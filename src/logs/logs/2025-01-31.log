@@ -1,0 +1,388 @@
+2025-01-31T04:03:41.695Z [info]: hello world, Welcome to MunimApp
+2025-01-31T04:11:12.975Z [info]: hello world, Welcome to MunimApp
+2025-01-31T04:11:18.982Z [info]: [Validate], Token not found
+2025-01-31T04:11:19.044Z [info]: [Validate], Error: JsonWebTokenError: jwt must be provided
+2025-01-31T04:14:23.129Z [info]: hello world, Welcome to MunimApp
+2025-01-31T04:14:52.398Z [info]: hello world, Welcome to MunimApp
+2025-01-31T04:15:41.902Z [info]: [Validate], Token not found
+2025-01-31T04:15:41.904Z [info]: [Validate], Error: JsonWebTokenError: jwt must be provided
+2025-01-31T04:39:26.065Z [info]: hello world, Welcome to MunimApp
+2025-01-31T04:39:37.476Z [info]: hello world, Welcome to MunimApp
+2025-01-31T04:39:47.683Z [info]: [Validate], Token not found
+2025-01-31T04:39:47.689Z [info]: [Validate], Error: JsonWebTokenError: jwt must be provided
+2025-01-31T04:49:55.063Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-31T04:49:55.178Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-31T04:50:30.631Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-31T04:50:30.730Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-31T04:50:44.155Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-31T04:50:44.382Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-31T05:10:09.301Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-31T05:10:09.664Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-31T05:35:38.380Z [info]: [UserController][login], Email: [tjesting@gmail.com], Password: [12341234]
+2025-01-31T05:35:38.422Z [info]: [UserController][login],Email:tjesting@gmail.com not found
+2025-01-31T05:35:44.520Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-01-31T05:35:44.684Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-01-31T05:35:45.108Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:35:45.200Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:36:35.649Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:36:35.702Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:46:07.192Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:46:07.238Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:47:19.019Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:47:19.051Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:49:16.896Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:49:16.914Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:49:27.410Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:49:27.428Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:49:48.344Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:49:48.376Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:49:54.539Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:49:54.560Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:50:24.833Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:50:24.850Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:50:37.959Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:50:37.974Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:50:47.993Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:50:48.014Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:50:53.944Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:50:53.960Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:50:58.099Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:50:58.103Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:51:15.924Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:51:15.961Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:52:00.935Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:52:00.948Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:52:13.539Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:52:13.584Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:52:32.078Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:52:32.090Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:52:44.493Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:52:44.534Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:52:49.217Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:52:49.225Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:53:02.235Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:53:02.269Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:56:18.818Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:56:18.849Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:56:26.864Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:56:26.873Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:56:33.168Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:56:33.189Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:56:44.763Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:56:44.773Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:56:50.278Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:56:50.286Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:57:03.270Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:57:03.294Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:57:40.888Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:57:40.919Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:58:53.263Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:58:53.291Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:04.085Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:04.100Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:21.917Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:21.938Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:27.573Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:27.583Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:35.940Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:35.946Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:45.990Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:45.996Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:49.969Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:49.977Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T05:59:53.225Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T05:59:53.230Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:00:17.770Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:00:17.781Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:00:34.710Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:00:34.744Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:00:49.586Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:00:49.608Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:01:00.353Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:01:00.365Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:01:07.206Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:01:07.224Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:01:29.292Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:01:29.319Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:02:13.319Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:02:13.407Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:02:23.578Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:02:23.590Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:02:27.574Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:02:27.582Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:02:31.423Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:02:31.439Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:02:42.343Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:02:42.351Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:02:51.871Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:02:51.877Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:03:35.990Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:03:36.001Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:04:16.098Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:04:16.120Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:04:24.938Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:04:24.944Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:04:32.712Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:04:32.726Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:06:00.298Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:06:00.306Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:06:17.654Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:06:17.665Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:06:36.342Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:06:36.352Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:08:29.207Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:08:29.218Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:10:08.471Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:10:08.483Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:10:49.043Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:10:49.056Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:11:00.430Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:11:00.442Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:12:02.318Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:12:02.342Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:12:18.898Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:12:18.909Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:13:12.447Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:13:12.460Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:13:41.666Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:13:41.684Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:15:35.763Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:15:35.780Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:15:45.333Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:15:45.341Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:16:17.493Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:16:17.507Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:16:21.472Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:16:21.477Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:16:26.339Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:16:26.345Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:16:34.018Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:16:34.024Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:17:35.266Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:17:35.280Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:17:51.532Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:17:51.546Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:17:54.713Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:17:54.733Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:17:59.597Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:17:59.603Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:18:23.301Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:18:23.311Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:18:33.136Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:18:33.143Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:18:43.569Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:18:43.576Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:18:56.006Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:18:56.022Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:19:11.523Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:19:11.537Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:19:22.208Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:19:22.226Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:19:27.364Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:19:27.372Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:19:46.040Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:19:46.051Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:41:27.601Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:41:27.627Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:41:30.875Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:41:30.882Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:41:44.171Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:41:44.207Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:41:51.233Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:41:51.251Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:41:54.033Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:41:54.042Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:42:00.023Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:42:00.028Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:42:01.979Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:42:01.986Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:42:06.806Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:42:06.821Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:42:11.500Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:42:11.512Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:42:16.839Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:42:16.845Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:42:23.893Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:42:23.900Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T06:47:48.492Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T06:47:48.532Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:15:39.355Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:15:39.408Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:15:59.722Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:15:59.782Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:16:21.715Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:16:21.757Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:16:33.711Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:16:33.746Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:17:04.985Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:17:05.035Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:20:30.832Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:20:30.865Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:26:23.056Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:26:23.095Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:32:34.817Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:32:34.943Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:33:32.712Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:33:32.740Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:33:41.952Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:33:41.965Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:33:55.502Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:33:55.522Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:34:08.130Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:34:08.161Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:34:12.947Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:34:12.966Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:37:12.624Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:37:12.655Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:37:18.280Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:37:18.309Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:37:46.860Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:37:46.903Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:37:58.353Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:37:58.392Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:38:37.593Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:38:37.621Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:38:45.841Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:38:45.855Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:39:12.857Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:39:12.872Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:39:18.514Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:39:18.525Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:39:23.694Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:39:23.709Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:39:27.695Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:39:27.711Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:39:35.855Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:39:35.866Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:41:10.855Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:41:10.882Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:41:26.356Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:41:26.402Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T07:41:34.834Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T07:41:34.852Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T08:28:03.736Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T08:28:03.812Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T08:37:04.054Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T08:37:04.212Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T08:37:15.995Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T08:37:16.026Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T08:58:19.587Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T08:58:19.755Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:19:42.903Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:19:42.940Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:22:40.555Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:22:40.588Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:26:28.113Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:26:28.139Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:28:58.635Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:28:58.673Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:42:02.717Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:42:02.799Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:54:23.649Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:54:23.794Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:54:38.341Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:54:38.365Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:56:08.297Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:56:08.323Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:57:12.528Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:57:12.561Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:57:15.825Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:57:15.846Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:58:36.987Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:58:37.018Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:58:40.672Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:58:40.695Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:58:43.761Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:58:43.770Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:58:52.798Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:58:52.809Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:58:56.688Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:58:56.697Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:59:02.755Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:59:02.763Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:59:06.016Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:59:06.021Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:59:08.987Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:59:08.995Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T09:59:22.298Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T09:59:22.316Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:00:15.158Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:00:15.193Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:00:17.816Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:00:17.823Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:00:23.710Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:00:23.722Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:00:36.826Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:00:36.838Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:00:50.337Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:00:50.362Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:11:32.731Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:11:32.771Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:12:53.684Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:12:53.722Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:13:18.964Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:13:18.987Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:13:29.098Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:13:29.114Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:22:15.468Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:22:15.536Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:22:17.914Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:22:17.921Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:22:20.883Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:22:20.890Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:36:58.919Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:36:59.004Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:47:49.717Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:47:49.779Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:49:17.465Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:49:17.498Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:50:47.088Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:50:47.119Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:52:34.134Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:52:34.166Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:53:43.890Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:53:43.915Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:54:41.469Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:54:41.504Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:55:25.398Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:55:25.412Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:55:35.267Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:55:35.275Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:55:51.533Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:55:51.550Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:56:10.759Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:56:10.789Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:57:07.384Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:57:07.401Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:57:43.645Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:57:43.677Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:57:45.412Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:57:45.418Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:57:56.375Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:57:56.388Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:58:32.474Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:58:32.494Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:58:46.634Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:58:46.657Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:59:02.455Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:59:02.481Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T10:59:47.597Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T10:59:47.818Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:00:01.738Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:00:01.759Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:00:45.914Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:00:45.936Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:02:37.599Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:02:37.616Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:03:21.670Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:03:21.688Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:03:43.806Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:03:43.824Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:04:44.631Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:04:44.650Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:11:05.286Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:11:05.303Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:11:08.638Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:11:08.645Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-01-31T11:11:12.137Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-01-31T11:11:12.144Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully

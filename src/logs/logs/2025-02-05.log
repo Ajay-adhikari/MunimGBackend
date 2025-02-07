@@ -1,0 +1,1547 @@
+2025-02-05T01:55:52.298Z [info]: [UserController][login], Email: [testing@gmail.com], Password: [12341234]
+2025-02-05T01:55:52.408Z [info]: [UserController][login], Email:testing@gmail.com, Password: 12341234, logged in successfully
+2025-02-05T01:55:53.175Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T01:55:53.178Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T01:55:53.199Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T01:55:53.238Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T01:55:55.725Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T01:55:55.726Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T01:56:02.659Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T01:56:02.661Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T01:56:05.752Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T01:56:05.754Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T02:24:39.396Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T02:24:39.402Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T02:24:39.415Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T02:24:39.432Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T02:24:42.325Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T02:24:42.329Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T02:39:26.040Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "shopId"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "margin"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "costPrice"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+2025-02-05T02:39:38.288Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "shopId"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "margin"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "costPrice"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+2025-02-05T02:43:26.664Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T02:43:26.692Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T02:43:30.853Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T02:43:30.857Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T02:44:55.445Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T02:44:55.450Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T02:45:35.199Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "margin"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "costPrice"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+2025-02-05T02:48:03.023Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "margin"
+    ],
+    "message": "Required"
+  }
+]
+2025-02-05T02:49:14.336Z [info]: [Validation], error: [
+  {
+    "code": "too_small",
+    "minimum": 0,
+    "type": "number",
+    "inclusive": false,
+    "exact": false,
+    "message": "Must be greater than 0",
+    "path": [
+      "margin"
+    ]
+  },
+  {
+    "code": "too_small",
+    "minimum": 0,
+    "type": "number",
+    "inclusive": false,
+    "exact": false,
+    "message": "Margin must be a positive number",
+    "path": [
+      "margin"
+    ]
+  }
+]
+2025-02-05T02:50:04.632Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:50:04.663Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Item added
+2025-02-05T02:50:37.426Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:50:37.428Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T02:50:46.115Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:50:46.116Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T02:51:31.241Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:51:31.244Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T02:53:12.115Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:53:12.117Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T02:54:10.014Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:54:10.017Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T02:54:17.402Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:54:17.402Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T02:54:28.340Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4] , Adding Shop
+2025-02-05T02:54:28.358Z [info]: [InventoryController][add], id: [11], shopId: [18], name: [Kurkure], sellingPrice: [5], quantity: [4], margin: [1], costPrice: [4], Item already exist
+2025-02-05T03:02:05.485Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:05.490Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:05.499Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:05.500Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:17.013Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:17.020Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T03:02:17.027Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:17.050Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T03:02:19.978Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:19.980Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:48.583Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:48.587Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:48.595Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:48.597Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:56.264Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:56.267Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:02:56.269Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:02:56.270Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:03:02.066Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:03:02.068Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:03:02.069Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:03:02.070Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:25:07.603Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:25:07.630Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:25:09.216Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:25:09.217Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:25:10.621Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:25:10.623Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:25:12.422Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:25:12.424Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:25:13.617Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:25:13.619Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:25:15.957Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:25:15.959Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:26:56.162Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:26:56.167Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:29:41.299Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:29:41.309Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:30:21.549Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:30:21.559Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:30:50.493Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:30:50.504Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:31:40.995Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:31:41.004Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T03:31:41.013Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:31:41.026Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T03:33:09.894Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:33:09.905Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:33:30.719Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:33:30.728Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:33:35.074Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:33:35.079Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:33:59.505Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:33:59.525Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:34:22.597Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:34:22.615Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:34:28.116Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:34:28.118Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:34:36.637Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:34:36.644Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:34:43.700Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:34:43.702Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T03:34:55.695Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T03:34:55.713Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:45:22.605Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T04:45:22.626Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:46:35.075Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T04:46:35.081Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T04:46:35.098Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:46:35.129Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T04:51:49.295Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T04:51:49.303Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T04:51:49.331Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:51:49.342Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T04:52:37.388Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T04:52:37.414Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:54:47.685Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T04:54:47.700Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T04:54:47.743Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:54:47.755Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T04:55:25.773Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T04:55:25.787Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T04:55:25.802Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T04:55:25.828Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:00:12.997Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:00:13.007Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:00:13.037Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:00:13.054Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:00:23.876Z [info]: [InventoryController][list], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T05:02:34.880Z [info]: [InventoryController][list], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T05:06:17.101Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:06:17.114Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:06:17.153Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:06:17.174Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:06:20.553Z [info]: [InventoryController][list], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T05:07:07.025Z [info]: [InventoryController][list], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T05:07:23.552Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:07:23.561Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:07:23.591Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:07:23.609Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:07:26.017Z [info]: [InventoryController][list], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T05:09:49.253Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:09:49.280Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:09:49.320Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:09:49.344Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:09:53.054Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:09:53.064Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:13:51.633Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:13:51.637Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:13:51.666Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:13:51.673Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:17:06.142Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:17:06.155Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:17:06.188Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:17:06.212Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:17:08.825Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:17:08.839Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:18:58.223Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:18:58.238Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:18:58.259Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:18:58.281Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:19:12.481Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:19:12.497Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:19:18.165Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:19:18.196Z [info]: [InventoryController][list], Error: SequelizeDatabaseError: Undeclared variable: Infinity
+2025-02-05T05:20:04.232Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:20:04.256Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:20:04.295Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:20:04.329Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:20:07.482Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:20:07.497Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:20:46.501Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:20:46.506Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:20:54.516Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:20:54.520Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:21:55.867Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T05:21:55.870Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T05:21:55.884Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T05:21:55.892Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T05:22:20.547Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:22:20.562Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:23:34.341Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:23:34.358Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:25:03.612Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:25:03.630Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:25:27.047Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:25:27.050Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:25:56.438Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:25:56.440Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:26:16.600Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:26:16.602Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:26:19.232Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:26:19.234Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:26:24.491Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:26:24.495Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:26:37.294Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:26:37.310Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:26:53.991Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:26:53.993Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:27:05.685Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:27:05.688Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:27:10.885Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:27:10.888Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:27:32.941Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:27:32.944Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:29:10.490Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:29:10.493Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:29:16.980Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:29:16.981Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T05:29:30.919Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T05:29:30.923Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:02:43.453Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:02:43.461Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:02:43.494Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:02:43.521Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:02:46.090Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:02:46.092Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:02:50.709Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:02:50.724Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:05:26.670Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:05:26.697Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:05:29.514Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:05:29.530Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:05:41.838Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:05:41.852Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:05:55.558Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:05:55.565Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:06:10.346Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:06:10.352Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:06:10.358Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:06:10.368Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:06:12.498Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:06:12.500Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:10:21.224Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:10:21.256Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:10:22.576Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:10:22.590Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:10:33.979Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:10:33.985Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:13:54.668Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:13:54.675Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:13:54.681Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:13:54.703Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:13:54.707Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:13:54.748Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:14:03.919Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:14:03.921Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:14:03.922Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:14:03.924Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:14:03.926Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:14:03.930Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:21:34.523Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:21:34.544Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:21:34.564Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:21:34.570Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:22:02.002Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:22:02.018Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:22:02.027Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:22:02.031Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:22:10.385Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:22:10.387Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:24:39.468Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:24:39.482Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:25:16.837Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:25:16.842Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:25:19.380Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:25:19.395Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:25:22.171Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:25:22.173Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:25:56.570Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:25:56.578Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:25:58.193Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:25:58.195Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:26:00.483Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:26:00.497Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:29:07.194Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:29:07.203Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:29:11.301Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:29:11.303Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:29:25.247Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:29:25.249Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:30:01.175Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:30:01.184Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:30:01.185Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:30:01.189Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:31:12.787Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:31:12.793Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:31:30.659Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:31:30.661Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:31:30.667Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:31:30.675Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:32:30.799Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:32:30.816Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:33:03.997Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:33:04.003Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:33:07.995Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:33:07.997Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:33:12.947Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:33:12.949Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:33:19.665Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:33:19.666Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:35:20.825Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:35:20.844Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:35:29.743Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:35:29.746Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:35:35.806Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:35:35.808Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:35:52.143Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:35:52.145Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:35:52.153Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:35:52.158Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:36:14.155Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:36:14.173Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:36:19.774Z [info]: [InventoryController][list], id: [11], shopId: [18], Getting Items
+2025-02-05T06:36:19.776Z [info]: [InventoryController][list], id: [11], shopId: [18], Items fetched Successfully
+2025-02-05T06:36:44.451Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:36:44.467Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:36:45.221Z [info]: [ShopsController][remove], userId: [11], shopId: 18 Removing Shop
+2025-02-05T06:36:45.309Z [info]: [ShopsController][remove], Error: SequelizeForeignKeyConstraintError: Cannot delete or update a parent row: a foreign key constraint fails (`munimg`.`inventory`, CONSTRAINT `inventory_ibfk_1` FOREIGN KEY (`shopId`) REFERENCES `shops` (`id`))
+2025-02-05T06:40:32.604Z [info]: [ShopsController][remove], userId: [11], shopId: 18 Removing Shop
+2025-02-05T06:40:32.645Z [info]: [ShopsController][remove], id: [11], shopId: 18 Shop Removed Successfully
+2025-02-05T06:40:33.187Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:40:33.199Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:40:33.203Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:40:33.214Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:40:35.284Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:40:35.286Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:40:37.463Z [info]: [InventoryController][list], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T06:45:21.103Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:45:21.124Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:48:54.758Z [info]: [ShopsController][add], id: [11], name: [Shopone], address: [Lal phatak], phone: [1234567890], description: [Very good and shoulder ] Adding shop
+2025-02-05T06:48:54.777Z [info]: [ShopsController][add], id: [11], name: [Shopone], address: [Lal phatak], phone: [1234567890], Shop Added Successfully
+2025-02-05T06:48:55.196Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:48:55.198Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:48:55.205Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:48:55.210Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:49:01.645Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:49:01.648Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:52:23.640Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T06:52:23.641Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:52:23.665Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:52:23.670Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T06:53:47.429Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:53:47.433Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:54:46.776Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:54:46.779Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:55:12.370Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Kurkure], sellingPrice: [10], quantity: [5], margin: [5], costPrice: [5] , Adding Shop
+2025-02-05T06:55:12.395Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Kurkure], sellingPrice: [10], quantity: [5], margin: [5], costPrice: [5] , Item added Successfully
+2025-02-05T06:55:16.645Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:55:16.647Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:55:20.213Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:55:20.214Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:55:41.032Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:55:41.034Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:56:20.651Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:56:20.658Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:56:20.659Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:56:20.660Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:58:27.754Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:58:27.761Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:58:27.764Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:58:27.768Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:58:31.934Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:58:31.941Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:58:31.943Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:58:31.947Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T06:58:36.582Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T06:58:36.584Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T06:58:36.599Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T06:58:36.601Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:00:12.276Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Lays], sellingPrice: [10], quantity: [5], margin: [5], costPrice: [5] , Adding Shop
+2025-02-05T07:00:12.288Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Lays], sellingPrice: [10], quantity: [5], margin: [5], costPrice: [5] , Item added Successfully
+2025-02-05T07:01:31.719Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:01:31.723Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:01:34.183Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:01:34.186Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:13:44.019Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:13:44.032Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:13:44.033Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:13:44.037Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:13:49.453Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:13:49.455Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:17:49.381Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:17:49.403Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:17:49.405Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:17:49.411Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:17:56.071Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:17:56.072Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:19:05.663Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:19:05.665Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:19:29.847Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:19:29.855Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:19:29.856Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:19:29.858Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:19:34.145Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:19:34.148Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:19:34.149Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:19:34.151Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:19:39.027Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:19:39.030Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:19:39.041Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:19:39.043Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:21:48.337Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:21:48.339Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:22:08.404Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:22:08.408Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T07:22:08.428Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:22:08.435Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T07:22:10.756Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:22:10.758Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:22:22.759Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:22:22.763Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:22:31.400Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:22:31.402Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:23:21.865Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:23:21.879Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:23:21.880Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:23:21.882Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:04.434Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:04.440Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:04.441Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:04.443Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:06.082Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:06.084Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:06.093Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:06.095Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:10.529Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:10.531Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:10.539Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:10.542Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:12.020Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:12.022Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:12.032Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:12.034Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:15.560Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:15.561Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:15.564Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:15.565Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:17.041Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:17.047Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:17.048Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:17.050Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:22.577Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:22.578Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:22.581Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:22.595Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:24.969Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:24.971Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:24.974Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:24.976Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:32.871Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:32.872Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:32.872Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:32.874Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:36.716Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:36.718Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:36.718Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:36.719Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:42.195Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:42.201Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:42.202Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:42.216Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:24:47.905Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:24:47.907Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:24:47.909Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:24:47.910Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:25:21.821Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:25:21.829Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:25:21.830Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:25:21.832Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:25:28.585Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:25:28.589Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:25:28.589Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:25:28.591Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:26:35.292Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:26:35.329Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:26:35.331Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:26:35.334Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:26:49.930Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:26:49.946Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:26:49.946Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:26:49.948Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:27:20.568Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:27:20.576Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:27:20.577Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:27:20.578Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:33:44.523Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:33:44.530Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:33:44.531Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:33:44.533Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:34:11.725Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:34:11.729Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:34:20.657Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:34:20.659Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:34:29.994Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:34:30.000Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:40:57.006Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:40:57.018Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:40:57.019Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:40:57.024Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:42:46.271Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:42:46.275Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:43:03.761Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:43:03.767Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:43:47.626Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:43:47.628Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:44:35.860Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:44:35.868Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:44:35.868Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:44:35.871Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:44:43.114Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:44:43.116Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:44:43.117Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:44:43.122Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:44:53.098Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:44:53.101Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:44:53.101Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:44:53.103Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:44:59.519Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:44:59.522Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:44:59.523Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:44:59.537Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:45:12.443Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:45:12.457Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:45:12.458Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:45:12.460Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:45:20.322Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:45:20.323Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:45:20.339Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:45:20.340Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T07:48:23.586Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T07:48:23.590Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T07:48:23.602Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T07:48:23.622Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T07:48:25.782Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T07:48:25.784Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:00:41.750Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [undefined], Missing Parameters
+2025-02-05T08:01:48.773Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [3], Deleting Items
+2025-02-05T08:01:48.786Z [info]: [InventoryController][delete], Error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025-02-05T08:02:24.785Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [3], Deleting Items
+2025-02-05T08:02:24.799Z [info]: [InventoryController][delete], Error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025-02-05T08:02:27.906Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [3], Deleting Items
+2025-02-05T08:02:27.908Z [info]: [InventoryController][delete], Error: SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2025-02-05T08:02:39.779Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [3], Deleting Items
+2025-02-05T08:02:39.804Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [3], Items deleted Successfully
+2025-02-05T08:02:39.861Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:02:39.864Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:05:12.598Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [2], Deleting Items
+2025-02-05T08:05:12.608Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [2], Items deleted Successfully
+2025-02-05T08:05:12.648Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:05:12.649Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:12:01.633Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chips], sellingPrice: [15], quantity: [5], margin: [10], costPrice: [5] , Adding Shop
+2025-02-05T08:12:01.656Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chips], sellingPrice: [15], quantity: [5], margin: [10], costPrice: [5] , Item added Successfully
+2025-02-05T08:12:04.099Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T08:12:04.117Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T08:12:07.351Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:12:07.364Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:12:49.464Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Banana chips], sellingPrice: [15], quantity: [10], margin: [5], costPrice: [10] , Adding Shop
+2025-02-05T08:12:49.474Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Banana chips], sellingPrice: [15], quantity: [10], margin: [5], costPrice: [10] , Item added Successfully
+2025-02-05T08:12:52.049Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:12:52.059Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:21:16.707Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "costPrice"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+2025-02-05T08:23:42.956Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:24:23.026Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:24:23.030Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:26:38.786Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:26:44.567Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:27:16.388Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:28:11.310Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:28:17.395Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:28:33.935Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 0 has no entry in the replacement map (replacements[0] is undefined).
+2025-02-05T08:28:56.391Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 5 has no entry in the replacement map (replacements[5] is undefined).
+2025-02-05T08:29:59.738Z [info]: [InventoryController][Edit], Error: Error: Positional replacement (?) 5 has no entry in the replacement map (replacements[5] is undefined).
+2025-02-05T08:31:36.111Z [info]: [InventoryController][Edit], id: [11], shopId: [23], itemId: [5], Item edited Successfully
+2025-02-05T08:31:36.182Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:31:36.187Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:31:58.467Z [info]: [InventoryController][Edit], id: [11], shopId: [23], itemId: [5], Item edited Successfully
+2025-02-05T08:31:58.506Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:31:58.507Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T08:45:16.026Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "shopId"
+    ],
+    "message": "Required"
+  }
+]
+2025-02-05T08:46:47.641Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Pepsi], sellingPrice: [40], quantity: [10], margin: [5], costPrice: [35] , Adding Shop
+2025-02-05T08:46:47.652Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Pepsi], sellingPrice: [40], quantity: [10], margin: [5], costPrice: [35] , Item added Successfully
+2025-02-05T08:46:59.779Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T08:46:59.783Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:05:16.260Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:05:16.265Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:05:41.807Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:05:41.817Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:05:41.831Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:05:41.849Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:05:46.356Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:05:46.359Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:10:35.042Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:10:35.046Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:10:35.054Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:10:35.065Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:10:39.387Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:10:39.388Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:11:12.755Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:11:12.758Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:11:45.724Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:11:45.726Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:11:45.745Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:11:45.750Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:11:48.855Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:11:48.857Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:17:35.130Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:17:35.147Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:17:35.156Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:17:35.164Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:17:41.415Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:17:41.417Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:18:00.521Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:18:00.525Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:18:00.546Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:18:00.552Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:18:01.949Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:18:01.951Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:24:15.225Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "margin"
+    ],
+    "message": "Required"
+  }
+]
+2025-02-05T09:24:27.469Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:24:27.477Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:24:32.550Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:24:32.554Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:25:33.121Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Biscuit], sellingPrice: [10], quantity: [10], margin: [5], costPrice: [5] , Adding Shop
+2025-02-05T09:25:33.138Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Biscuit], sellingPrice: [10], quantity: [10], margin: [5], costPrice: [5] , Item added Successfully
+2025-02-05T09:25:47.014Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:25:47.030Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:25:48.913Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:25:48.918Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:26:18.539Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:26:18.540Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:26:27.500Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:26:27.502Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:27:10.348Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:27:10.349Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:28:35.267Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:28:35.269Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:28:37.478Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:28:37.492Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:28:40.179Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:28:40.184Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:29:48.967Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:29:48.970Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:30:55.079Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:30:55.085Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:30:55.086Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:30:55.088Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:30:59.064Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:30:59.067Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:30:59.068Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:30:59.072Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:31:07.621Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:31:07.623Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:31:07.625Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:31:07.626Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:31:13.505Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:31:13.520Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:31:13.523Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:31:13.524Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:33:45.367Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:33:45.372Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:33:45.376Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:33:45.381Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:33:55.408Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:33:55.410Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:37:07.298Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:37:07.301Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:39:48.966Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:39:48.973Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:39:48.974Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:39:48.978Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:40:55.449Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:40:55.464Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:40:55.465Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:40:55.470Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:41:06.021Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:41:06.046Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:41:07.904Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:41:07.906Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:41:09.515Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:41:09.516Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:42:32.910Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:42:32.922Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:42:32.924Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:42:32.927Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:43:36.850Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:43:36.867Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:43:36.867Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:43:36.869Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:45:09.964Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:45:09.983Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:45:09.984Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:45:09.987Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:45:42.318Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:45:42.320Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T09:45:42.335Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:45:42.338Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T09:45:45.046Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:45:45.060Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:46:17.384Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:46:17.406Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:46:17.407Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:46:17.410Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:46:53.232Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:46:53.251Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:46:53.252Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:46:53.253Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:48:13.478Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:48:13.487Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:48:13.489Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:48:13.491Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:50:53.965Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:50:53.972Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:50:53.975Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:50:53.979Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:51:39.520Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:51:39.532Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:51:39.533Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:51:39.534Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:52:39.918Z [info]: [Validation], error: [
+  {
+    "code": "too_small",
+    "minimum": 2,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "Product name is required",
+    "path": [
+      "name"
+    ]
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "undefined",
+    "path": [
+      "margin"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "costPrice"
+    ],
+    "message": "Expected number, received null"
+  }
+]
+2025-02-05T09:56:44.598Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:56:44.610Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:56:44.611Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:56:44.612Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:56:59.820Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:56:59.840Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:56:59.840Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:56:59.841Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T09:57:09.434Z [info]: [Validation], error: [
+  {
+    "code": "too_small",
+    "minimum": 2,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "Product name is required",
+    "path": [
+      "name"
+    ]
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "margin"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "costPrice"
+    ],
+    "message": "Expected number, received null"
+  }
+]
+2025-02-05T09:58:17.915Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T09:58:17.925Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T09:58:17.926Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T09:58:17.928Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:01:32.214Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:01:32.225Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:01:32.226Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:01:32.229Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:01:38.657Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:01:38.659Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:01:38.662Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:01:38.664Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:01:56.751Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:01:56.774Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:01:56.775Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:01:56.779Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:17.504Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:17.524Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:17.525Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:17.529Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:27.480Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:27.482Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:27.491Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:27.493Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:32.088Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:32.091Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:32.094Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:32.096Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:40.022Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:40.026Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:40.030Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:40.032Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:44.090Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:44.093Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:44.095Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:44.097Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:50.594Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:50.598Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:50.600Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:50.603Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:54.313Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:54.315Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:54.316Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:54.318Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:02:57.934Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:02:57.937Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:02:57.938Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:02:57.940Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:03:05.287Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:03:05.288Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:03:05.289Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:03:05.290Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:03:09.142Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:03:09.143Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:03:09.144Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:03:09.146Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:03:11.011Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:03:11.014Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:03:11.015Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:03:11.017Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:03:38.690Z [info]: [Validation], error: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "sellingPrice"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "quantity"
+    ],
+    "message": "Expected number, received null"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "null",
+    "path": [
+      "margin"
+    ],
+    "message": "Expected number, received null"
+  }
+]
+2025-02-05T10:08:11.591Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:08:11.598Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:08:11.598Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:08:11.600Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:08:20.910Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:08:20.914Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:08:20.914Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:08:20.928Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:08:51.134Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:08:51.154Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:08:51.155Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:08:51.159Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:08:56.987Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:08:56.991Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:08:56.992Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:08:56.994Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:09:22.866Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:09:22.886Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:09:22.886Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:09:22.887Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:09:34.749Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:09:34.760Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:09:34.761Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:09:34.762Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:09:42.656Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:09:42.657Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:09:42.657Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:09:42.658Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:09:49.491Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:09:49.492Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:09:49.492Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:09:49.493Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:14:52.816Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:14:52.819Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T10:14:52.828Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:14:52.833Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T10:15:05.226Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:15:05.229Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:16:52.162Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:16:52.183Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:16:52.183Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:16:52.185Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:17:21.328Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Biscuit], sellingPrice: [100], quantity: [100], margin: [45], costPrice: [55] , Adding Shop
+2025-02-05T10:17:21.330Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Biscuit], sellingPrice: [100], quantity: [100], margin: [45], costPrice: [55], Item already exist
+2025-02-05T10:18:40.900Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Biscuit parle], sellingPrice: [100], quantity: [100], margin: [45], costPrice: [55] , Adding Shop
+2025-02-05T10:18:40.913Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Biscuit parle], sellingPrice: [100], quantity: [100], margin: [45], costPrice: [55] , Item added Successfully
+2025-02-05T10:18:40.950Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:18:40.951Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:19:29.911Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [8], Deleting Items
+2025-02-05T10:19:29.924Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [8], Items deleted Successfully
+2025-02-05T10:19:29.962Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:19:29.963Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:20:23.771Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:20:23.794Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:20:23.795Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:20:23.798Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:21:18.760Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:21:18.763Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T10:21:18.781Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:21:18.789Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T10:21:21.846Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:21:21.848Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:22:16.325Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:22:16.337Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:22:16.339Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:22:16.342Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:22:32.962Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:22:32.984Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:22:32.984Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:22:32.986Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:22:41.133Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:22:41.137Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:22:41.138Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:22:41.139Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:22:53.978Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:22:53.994Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:22:53.994Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:22:53.996Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:23:16.896Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:23:16.918Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:23:16.919Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:23:16.922Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:24:04.940Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:24:04.952Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:24:04.965Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:24:04.967Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:24:11.761Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:24:11.765Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:24:11.767Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:24:11.769Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:24:26.103Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:24:26.132Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:24:26.132Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:24:26.134Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:24:30.641Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:24:30.642Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:24:30.642Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:24:30.643Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:24:32.687Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:24:32.694Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:24:32.696Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:24:32.698Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:07.711Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:07.728Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:07.729Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:07.730Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:12.309Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:12.311Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:12.330Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:12.333Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:23.998Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:24.007Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:24.008Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:24.011Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:32.839Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:32.841Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:32.842Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:32.856Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:37.589Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:37.591Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:37.601Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:37.603Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:47.858Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:47.860Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:47.868Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:47.869Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:51.342Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:51.344Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:51.356Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:51.358Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:25:59.212Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:25:59.213Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:25:59.217Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:25:59.219Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:27:10.196Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:27:10.198Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:27:47.104Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:27:47.114Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:27:47.115Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:27:47.117Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:27:56.902Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:27:56.904Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:28:20.642Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:28:20.650Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:28:20.651Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:28:20.657Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:28:44.221Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:28:44.224Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:29:16.627Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:29:16.628Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:30:03.924Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:30:03.926Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:31:10.119Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:31:10.124Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:31:10.126Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:31:10.139Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:31:14.263Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:31:14.265Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:31:14.268Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:31:14.271Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:31:53.884Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:31:53.905Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:31:53.907Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:31:53.910Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:32:11.756Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:32:11.763Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:32:11.764Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:32:11.766Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:32:15.708Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:32:15.709Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:32:15.712Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:32:15.713Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:32:25.335Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:32:25.337Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:32:25.340Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:32:25.342Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:32:28.983Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:32:28.984Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:32:28.985Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:32:28.987Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:34:02.600Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:34:02.603Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:34:06.677Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:34:06.679Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:34:41.379Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:34:41.380Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:35:02.784Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:35:02.794Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:35:02.795Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:35:02.798Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:35:09.372Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:35:09.374Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:35:09.375Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:35:09.376Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:35:24.013Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:35:24.019Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:35:24.020Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:35:24.022Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:35:37.565Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:35:37.572Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:35:37.573Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:35:37.576Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:35:45.907Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:35:45.908Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:35:45.909Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:35:45.910Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:35:56.084Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:35:56.085Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:35:56.086Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:35:56.087Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:36:17.929Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:36:17.937Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:36:17.937Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:36:17.938Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:36:24.596Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:36:24.597Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:36:24.597Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:36:24.610Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:36:27.793Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:36:27.797Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:36:27.797Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:36:27.799Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:36:41.710Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:36:41.718Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:36:41.719Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:36:41.723Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:37:02.584Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:37:02.589Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:37:02.591Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:37:02.593Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:38:20.415Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:38:20.416Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:38:38.952Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:38:38.953Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:38:43.574Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:38:43.575Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:38:59.540Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:38:59.541Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:39:42.820Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:39:42.823Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:40:10.782Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:40:10.783Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:40:30.481Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:40:30.482Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:40:46.469Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:40:46.470Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:41:09.543Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:41:09.544Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:41:20.559Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:41:20.561Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:41:42.607Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:41:42.608Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:42:14.918Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:42:14.919Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:42:47.091Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:42:47.094Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:50:58.410Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:50:58.420Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:50:58.420Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:50:58.422Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:51:08.683Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:51:08.684Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:51:22.106Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chips], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Adding Shop
+2025-02-05T10:51:22.108Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chips], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5], Item already exist
+2025-02-05T10:51:33.433Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apple], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Adding Shop
+2025-02-05T10:51:33.459Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apple], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Item added Successfully
+2025-02-05T10:51:33.490Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:51:33.491Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:52:08.587Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [4], Deleting Items
+2025-02-05T10:52:08.612Z [info]: [InventoryController][delete], id: [11], shopId: [23], itemId: [4], Items deleted Successfully
+2025-02-05T10:52:08.643Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:52:08.646Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:52:44.692Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:52:44.703Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:52:44.704Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:52:44.707Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:52:47.019Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apple], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Adding Shop
+2025-02-05T10:52:47.020Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apple], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5], Item already exist
+2025-02-05T10:52:52.610Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apple], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Adding Shop
+2025-02-05T10:52:52.611Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apple], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5], Item already exist
+2025-02-05T10:53:01.581Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apples], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Adding Shop
+2025-02-05T10:53:01.617Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Chip apples], sellingPrice: [6], quantity: [10], margin: [1], costPrice: [5] , Item added Successfully
+2025-02-05T10:53:01.649Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:53:01.650Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:54:23.977Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:54:23.979Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:54:55.099Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:54:55.121Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:54:55.122Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:54:55.123Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:55:02.869Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:55:02.872Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:55:02.873Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:55:02.874Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:55:53.806Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:55:53.811Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:55:53.812Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:55:53.814Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:55:57.711Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:55:57.713Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:55:57.717Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:55:57.719Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:56:01.658Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:56:01.661Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:56:01.662Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:56:01.664Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:56:21.793Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:56:21.802Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:56:21.802Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:56:21.804Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:56:56.592Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:56:56.594Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T10:58:19.077Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T10:58:19.079Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T10:58:19.084Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T10:58:19.091Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T10:58:29.612Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T10:58:29.614Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:01:27.989Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:01:27.990Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:01:53.503Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:01:53.505Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:02:49.295Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Fruti], sellingPrice: [15], quantity: [5], margin: [5], costPrice: [10] , Adding Shop
+2025-02-05T11:02:49.316Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Fruti], sellingPrice: [15], quantity: [5], margin: [5], costPrice: [10] , Item added Successfully
+2025-02-05T11:02:49.351Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:02:49.353Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:02:55.603Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Frutii], sellingPrice: [15], quantity: [5], margin: [5], costPrice: [10] , Adding Shop
+2025-02-05T11:02:55.622Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Frutii], sellingPrice: [15], quantity: [5], margin: [5], costPrice: [10] , Item added Successfully
+2025-02-05T11:02:55.657Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:02:55.658Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:05:36.779Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:05:36.786Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:05:36.786Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:05:36.787Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:05:44.710Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:05:44.712Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:05:44.713Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:05:44.716Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:05:49.089Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:05:49.091Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:05:49.098Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:05:49.100Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:06:09.199Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:06:09.205Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:06:09.205Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:06:09.207Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:06:26.037Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Vegies], sellingPrice: [15], quantity: [5], margin: [5], costPrice: [10] , Adding Shop
+2025-02-05T11:06:26.059Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Vegies], sellingPrice: [15], quantity: [5], margin: [5], costPrice: [10] , Item added Successfully
+2025-02-05T11:06:26.104Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:06:26.106Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:06:32.971Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:06:32.972Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:06:34.931Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:06:34.932Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:07:03.917Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Pan masala], sellingPrice: [30], quantity: [12], margin: [15], costPrice: [15] , Adding Shop
+2025-02-05T11:07:03.928Z [info]: [InventoryController][add], id: [11], shopId: [23], name: [Pan masala], sellingPrice: [30], quantity: [12], margin: [15], costPrice: [15] , Item added Successfully
+2025-02-05T11:07:03.958Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:07:03.972Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:07:33.613Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:07:33.618Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T11:07:33.635Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:07:33.640Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T11:07:35.711Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:07:35.713Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:08:28.081Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:08:28.102Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:08:28.103Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:08:28.107Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:08:32.087Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:08:32.088Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:08:32.095Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:08:32.096Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:08:40.567Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:08:40.570Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:08:40.574Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:08:40.576Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:08:45.407Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:08:45.409Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:08:45.416Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:08:45.418Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:10:12.750Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:10:12.755Z [info]: [UserController][getUserDetails], User ID: [11]
+2025-02-05T11:10:12.757Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:10:12.769Z [info]: [UserController][getUserDetails], Total Sale: [[object Object]], Total Expense: [[object Object]], Total Shops: [[object Object]], Pending Money: [[object Object]], Details fetched successfully
+2025-02-05T11:11:33.756Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:11:33.760Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:14:01.451Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:14:01.474Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:14:01.475Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:14:01.478Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:14:11.846Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:14:11.867Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:14:11.869Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:14:11.871Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:14:21.376Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:14:21.378Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:14:21.379Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:14:21.381Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:14:25.184Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:14:25.188Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:14:25.189Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:14:25.192Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:14:50.695Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:14:50.696Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:15:05.674Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:15:05.683Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:15:05.683Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:15:05.685Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:15:27.347Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:15:27.357Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:15:27.358Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:15:27.360Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:15:30.637Z [info]: [ShopsController][list], id: [11], Getting Shops
+2025-02-05T11:15:30.641Z [info]: [ShopsController][list], id: [11], Shops List Send Successfully
+2025-02-05T11:15:30.642Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:15:30.645Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully
+2025-02-05T11:15:49.104Z [info]: [InventoryController][list], id: [11], shopId: [23], Getting Items
+2025-02-05T11:15:49.107Z [info]: [InventoryController][list], id: [11], shopId: [23], Items fetched Successfully

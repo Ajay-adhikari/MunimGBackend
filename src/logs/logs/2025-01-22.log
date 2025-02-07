@@ -1,0 +1,50 @@
+2025-01-22T11:25:20.948Z [info]: [VendorController], [register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [12321321332], Name: [ajay]
+2025-01-22T11:25:20.965Z [info]: VendorController register Error: Invalid value { email: 'ajay12@gmail.com', phone: '12321321332' }
+2025-01-22T11:25:55.778Z [info]: hello world, Welcome to MunimApp
+2025-01-22T11:26:35.964Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [12321321332], Name: [ajay]
+2025-01-22T11:26:35.980Z [info]: VendorController register Error: Invalid value { email: 'ajay12@gmail.com', phone: '12321321332' }
+2025-01-22T11:30:01.295Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [12321321332], Name: [ajay]
+2025-01-22T11:30:01.303Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: '12321321332' }
+2025-01-22T11:30:11.026Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [12321321332], Name: [ajay]
+2025-01-22T11:30:11.027Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: '12321321332' }
+2025-01-22T11:31:21.022Z [info]: hello world, Welcome to MunimApp
+2025-01-22T11:31:28.985Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [12321321332], Name: [ajay]
+2025-01-22T11:31:28.986Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: '12321321332' }
+2025-01-22T11:32:08.588Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [12321321332], Name: [ajay]
+2025-01-22T11:32:08.595Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: '12321321332' }
+2025-01-22T11:33:59.131Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:33:59.133Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:35:33.605Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:35:33.610Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:36:02.516Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:36:02.520Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:36:10.990Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:36:10.991Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:36:30.577Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:36:30.580Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:37:25.289Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:37:25.301Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:37:38.518Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:37:38.526Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:38:31.794Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:38:31.802Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:38:35.843Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:38:35.844Z [info]: [VendorController][register] Error: Invalid value { email: 'ajay12@gmail.com', phone: 'hjadsjahd' }
+2025-01-22T11:39:16.998Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:39:17.039Z [info]: [VendorController][register],ajay12@gmail.com already exists
+2025-01-22T11:41:04.550Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:41:04.556Z [info]: [VendorController][register],ajay12@gmail.com already exists
+2025-01-22T11:41:44.173Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:41:44.233Z [info]: [VendorController][register] ,Email:ajay12@gmail.com, registered successfully
+2025-01-22T11:42:04.359Z [info]: hello world, Welcome to MunimApp
+2025-01-22T11:42:16.863Z [info]: hello world, Welcome to MunimApp
+2025-01-22T11:42:19.775Z [info]: [VendorController][register], Email: [ajay12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:42:19.782Z [info]: [VendorController][register],ajay12@gmail.com already exists
+2025-01-22T11:43:40.010Z [info]: [VendorController][register], Email: [ajaasy12@gmail.com], Password: [12123123], Phone: [hjadsjahd], Name: [ajay]
+2025-01-22T11:43:40.031Z [info]: [VendorController][register],ajaasy12@gmail.com already exists
+2025-01-22T11:43:48.798Z [info]: [VendorController][register], Email: [ajaasy12@gmail.com], Password: [12123123], Phone: [909203923], Name: [ajay]
+2025-01-22T11:43:48.815Z [info]: [VendorController][register] ,Email:ajaasy12@gmail.com, registered successfully
+2025-01-22T11:44:25.250Z [info]: [VendorController][register], Email: [vijhay@gmail.com], Password: [12123123], Phone: [909203923], Name: [ajay]
+2025-01-22T11:44:25.260Z [info]: [VendorController][register],vijhay@gmail.com already exists
+2025-01-22T11:44:30.587Z [info]: [VendorController][register], Email: [vijhay@gmail.com], Password: [12123123], Phone: [9092qw03923], Name: [ajay]
+2025-01-22T11:44:30.612Z [info]: [VendorController][register] ,Email:vijhay@gmail.com, registered successfully
