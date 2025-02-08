@@ -5,15 +5,17 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const sequelize = new Sequelize(
-  process.env.MYSQLDATABASE as string,  // Updated variable names
+  process.env.MYSQLDATABASE as string,
   process.env.MYSQLUSER as string,
   process.env.MYSQLPASSWORD as string,
   {
     host: process.env.MYSQLHOST,
-    port: Number(process.env.MYSQLPORT),  // Convert port to number
+    port: Number(process.env.MYSQLPORT),
     dialect: "mysql",
-    logging: false,
+    logging: console.log,
+    dialectOptions: {
+      connectTimeout: 60000, // Increase timeout to 60 seconds
+    },
   }
 );
-
 export default sequelize;
