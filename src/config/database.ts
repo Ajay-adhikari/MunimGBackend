@@ -1,21 +1,21 @@
 import { Sequelize } from "sequelize";
 import dotenv from "dotenv";
+import { string } from "zod";
 
 // Load environment variables
+
 dotenv.config();
 
-const sequelize = new Sequelize(
-  process.env.MYSQLDATABASE as string,
-  process.env.MYSQLUSER as string,
-  process.env.MYSQLPASSWORD as string,
-  {
-    host: process.env.MYSQLHOST,
-    port: Number(process.env.MYSQLPORT),
-    dialect: "mysql",
-    logging: console.log,
-    dialectOptions: {
-      connectTimeout: 60000, // Increase timeout to 60 seconds
-    },
-  }
-);
+require("dotenv").config();
+
+const sequelize = new Sequelize(String(process.env.DATABASE_URL), {
+  dialect: "mysql",
+  logging: false,
+});
+
+sequelize
+  .authenticate()
+  .then(() => console.log("Connected to MySQL"))
+  .catch((err) => console.error("Connection error:", err));
+
 export default sequelize;
