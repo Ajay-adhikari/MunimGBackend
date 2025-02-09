@@ -6,12 +6,12 @@ const createSummaryTable = async () => {
         const result = await sequelize.query(`
      CREATE TABLE IF NOT EXISTS Summary (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    shop_id INT,
-    total_sales DECIMAL(10, 2) DEFAULT 0,
-    total_expenses DECIMAL(10, 2) DEFAULT 0,
-    net_profit DECIMAL(10, 2) DEFAULT 0,  -- Calculated as total_sales - total_expenses
-    date DATE DEFAULT CURRENT_DATE,
-    FOREIGN KEY (shop_id) REFERENCES Shops(id)
+    shopId INT,
+    totalSale DECIMAL(10, 2) DEFAULT 0,
+    totalExpense DECIMAL(10, 2) DEFAULT 0,
+    netProfit DECIMAL(10, 2) DEFAULT 0,  -- Calculated as total_sales - total_expenses
+    date TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    FOREIGN KEY (shopId) REFERENCES Shops(id)
 );
 
     `);

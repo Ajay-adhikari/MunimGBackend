@@ -12,8 +12,8 @@ const createShopsTable = async () => {
     phone VARCHAR(15),
     createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    description varchar(255) not null default null,
-    FOREIGN KEY (user_id) REFERENCES Users(id)
+    description varchar(255)  default null,
+    FOREIGN KEY (userId) REFERENCES Users(id)
     );
     `);
     } catch (error) {

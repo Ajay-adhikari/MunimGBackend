@@ -6,7 +6,7 @@ import Shops from "../controllers/ShopsController";
 const ShopsDB: any = {};
 
 ShopsDB.totalShops = async ({ id }: UserType) => {
-    const query = `SELECT COUNT(*) AS totalShops FROM shops WHERE userId = ?`;
+    const query = `SELECT COUNT(*) AS totalShops FROM Shops WHERE userId = ?`;
     const result = await sequelize.query(query, {
         replacements: [id],
         type: QueryTypes.SELECT
@@ -16,7 +16,7 @@ ShopsDB.totalShops = async ({ id }: UserType) => {
 }
 
 ShopsDB.add = async ({ userId, name, address, phone, description }: ShopType) => {
-    const query = `INSERT INTO shops (userId, name, address, phone, description) VALUES (?, ?, ?, ?,?)`;
+    const query = `INSERT INTO Shops (userId, name, address, phone, description) VALUES (?, ?, ?, ?,?)`;
     const result = await sequelize.query(query, {
         replacements: [userId, name, address, phone, description],
         type: QueryTypes.INSERT
@@ -26,7 +26,7 @@ ShopsDB.add = async ({ userId, name, address, phone, description }: ShopType) =>
 }
 
 ShopsDB.isExist = async ({ userId, name, address, phone }: ShopType) => {
-    const query = `SELECT * FROM shops WHERE userId = ? AND name = ? AND address = ? AND phone = ?`;
+    const query = `SELECT * FROM Shops WHERE userId = ? AND name = ? AND address = ? AND phone = ?`;
     const result = await sequelize.query(query, {
         replacements: [userId, name, address, phone],
         type: QueryTypes.SELECT
@@ -36,7 +36,7 @@ ShopsDB.isExist = async ({ userId, name, address, phone }: ShopType) => {
 }
 
 ShopsDB.isExistByShopId = async ({ id, userId }: ShopType) => {
-    const query = `SELECT * FROM shops WHERE  id=? and userId = ? `;
+    const query = `SELECT * FROM Shops WHERE  id=? and userId = ? `;
     const result = await sequelize.query(query, {
         replacements: [id, userId],
         type: QueryTypes.SELECT
@@ -48,7 +48,7 @@ ShopsDB.isExistByShopId = async ({ id, userId }: ShopType) => {
 ShopsDB.getAllShops = async ({ userId, page, limit }: { userId: ShopType, page: number, limit: number }) => {
     ;
     const offset = (page - 1) * limit;
-    const query = `SELECT id , name , phone, address, description FROM shops WHERE userId = ? LIMIT ? OFFSET ?`;
+    const query = `SELECT id , name , phone, address, description FROM Shops WHERE userId = ? LIMIT ? OFFSET ?`;
     const result = await sequelize.query(query, {
         replacements: [userId, limit, offset],
         type: QueryTypes.SELECT
@@ -58,7 +58,7 @@ ShopsDB.getAllShops = async ({ userId, page, limit }: { userId: ShopType, page: 
 }
 
 ShopsDB.remove = async ({ id, userId }: ShopType) => {
-    const query = `DELETE FROM shops WHERE id = ? and userId = ?`;
+    const query = `DELETE FROM Shops WHERE id = ? and userId = ?`;
     const result = await sequelize.query(query, {
         replacements: [id, userId],
         type: QueryTypes.DELETE

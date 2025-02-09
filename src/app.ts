@@ -10,6 +10,7 @@ import ShopRoutes from './routes/ShopRoutes';
 import InventoryRoutes from './routes/InventoryRoutes'
 import salesRoutes from './routes/SalesRoutes';
 
+
 const app = express();
 //middlewares
 

@@ -14,7 +14,7 @@ const createInvetoryTable = async () => {
     quantity INT NOT NULL,
     createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updatedAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
-    FOREIGN KEY (shop_id) REFERENCES Shops(id)
+    FOREIGN KEY (shopId) REFERENCES Shops(id)
 );
     `);
     } catch (error) {
