@@ -5,17 +5,17 @@ import e from "express";
 
 const InventoryDB: any = {};
 InventoryDB.add = async ({ shopId, name, sellingPrice, quantity, margin, costPrice }: InventoryType) => {
-    const query = `INSERT INTO inventory (shopId, name, sellingPrice, quantity, margin, costPrice) VALUES (?, ?, ?, ?, ?, ?)`;
+    const query = `INSERT INTO Inventory (shopId, name, sellingPrice, quantity, margin, costPrice) VALUES (?, ?, ?, ?, ?, ?)`;
     const result = await sequelize.query(query, {
         replacements: [shopId, name, sellingPrice, quantity, margin, costPrice],
         type: QueryTypes.INSERT
     })
-    if (result.length > 0) return true;
-    return false;
+    return result;
+
 }
 
 InventoryDB.isExist = async ({ shopId, name }: InventoryType) => {
-    const query = `SELECT * FROM inventory WHERE shopId = ? AND LOWER(name) = LOWER(?)`;
+    const query = `SELECT * FROM Inventory WHERE shopId = ? AND LOWER(name) = LOWER(?)`;
     const result = await sequelize.query(query, {
         replacements: [shopId, name],
         type: QueryTypes.SELECT
@@ -26,7 +26,7 @@ InventoryDB.isExist = async ({ shopId, name }: InventoryType) => {
 
 InventoryDB.list = async ({ shopId, page, limit }: { shopId: number, page: number, limit: number }) => {
     const offset = (page - 1) * limit;
-    const query = `SELECT * FROM inventory WHERE shopId = ? LIMIT ? OFFSET ?`;
+    const query = `SELECT * FROM Inventory WHERE shopId = ? LIMIT ? OFFSET ?`;
     const result = await sequelize.query(query, {
         replacements: [shopId, limit, offset],
         type: QueryTypes.SELECT
@@ -36,7 +36,7 @@ InventoryDB.list = async ({ shopId, page, limit }: { shopId: number, page: numbe
 }
 
 InventoryDB.removeAll = async ({ shopId }: { shopId: number }) => {
-    const query = `DELETE FROM inventory WHERE shopId = ?`;
+    const query = `DELETE FROM Inventory WHERE shopId = ?`;
     const result = await sequelize.query(query, {
         replacements: [shopId],
         type: QueryTypes.DELETE
@@ -45,7 +45,7 @@ InventoryDB.removeAll = async ({ shopId }: { shopId: number }) => {
 }
 
 InventoryDB.deleteById = async ({ id, shopId }: InventoryType) => {
-    const query = `DELETE FROM inventory WHERE id = ? and shopId = ? `;
+    const query = `DELETE FROM Inventory WHERE id = ? and shopId = ? `;
     const result = await sequelize.query(query, {
         replacements: [id, shopId],
         type: QueryTypes.DELETE
@@ -54,7 +54,7 @@ InventoryDB.deleteById = async ({ id, shopId }: InventoryType) => {
 }
 
 InventoryDB.edit = async ({ id, shopId, name, sellingPrice, quantity, margin, costPrice }: InventoryType) => {
-    const query = `UPDATE inventory SET name = ?, sellingPrice = ?, quantity = ?, margin = ?, costPrice = ? WHERE id = ? and shopId = ?`;
+    const query = `UPDATE Inventory SET name = ?, sellingPrice = ?, quantity = ?, margin = ?, costPrice = ? WHERE id = ? and shopId = ?`;
     const result = await sequelize.query(query, {
         replacements: [name, sellingPrice, quantity, sellingPrice - costPrice, costPrice, id, shopId],
         type: QueryTypes.UPDATE
@@ -63,7 +63,7 @@ InventoryDB.edit = async ({ id, shopId, name, sellingPrice, quantity, margin, co
 }
 
 InventoryDB.totalShopItems = async ({ shopId }: { shopId: number }) => {
-    const query = `SELECT COUNT(*) AS total FROM inventory WHERE shopId = ?`;
+    const query = `SELECT COUNT(*) AS total FROM Inventory WHERE shopId = ?`;
     const result = await sequelize.query(query, {
         replacements: [shopId],
         type: QueryTypes.SELECT
@@ -72,7 +72,7 @@ InventoryDB.totalShopItems = async ({ shopId }: { shopId: number }) => {
 }
 
 InventoryDB.getById = async ({ id, shopId }: InventoryType) => {
-    const query = `SELECT * FROM inventory WHERE id = ? and shopId = ?`;
+    const query = `SELECT * FROM Inventory WHERE id = ? and shopId = ?`;
     const result = await sequelize.query(query, {
         replacements: [id, shopId],
         type: QueryTypes.SELECT
@@ -81,7 +81,7 @@ InventoryDB.getById = async ({ id, shopId }: InventoryType) => {
 }
 
 InventoryDB.updateQuantity = async ({ id, shopId, quantity }: InventoryType) => {
-    const query = `UPDATE inventory SET quantity = quantity - ? WHERE id = ? and shopId = ?`;
+    const query = `UPDATE Inventory SET quantity = quantity - ? WHERE id = ? and shopId = ?`;
     const result = await sequelize.query(query, {
         replacements: [quantity, id, shopId],
         type: QueryTypes.UPDATE

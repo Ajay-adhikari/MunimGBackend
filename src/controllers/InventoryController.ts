@@ -18,7 +18,6 @@ Inventory.add = async (req: CustomRequest, res: CustomResponse) => {
                 message: "Shop not found"
             })
         }
-        log.info(`[${C}][${F}], id: [${id}], shopId: [${shopId}], name: [${name}], sellingPrice: [${sellingPrice}], quantity: [${quantity}], margin: [${margin}], costPrice: [${costPrice}] , Adding Shop`);
         const isExist = await InventoryDB.isExist({ name: name.trim(), shopId });
         if (isExist) {
             log.info(`[${C}][${F}], id: [${id}], shopId: [${shopId}], name: [${name}], sellingPrice: [${sellingPrice}], quantity: [${quantity}], margin: [${margin}], costPrice: [${costPrice}], Item already exist`);
@@ -26,17 +25,19 @@ Inventory.add = async (req: CustomRequest, res: CustomResponse) => {
                 message: "Item already exist"
             });
         }
+        log.info(`[${C}][${F}], id: [${id}], shopId: [${shopId}], name: [${name}], sellingPrice: [${sellingPrice}], quantity: [${quantity}], margin: [${margin}], costPrice: [${costPrice}] , Adding Item`);
+
         const item = await InventoryDB.add({ shopId, name, sellingPrice, quantity, margin, costPrice });
 
         log.info(`[${C}][${F}], id: [${id}], shopId: [${shopId}], name: [${name}], sellingPrice: [${sellingPrice}], quantity: [${quantity}], margin: [${margin}], costPrice: [${costPrice}] , Item added Successfully`);
 
-        res.status(200).json({
+        return res.status(200).json({
             message: "Item added"
         })
 
     }
     catch (error) {
-        res.status(500).json({
+        return res.status(500).json({
             message: "Internal Server Error",
             error: error
         })

@@ -9,6 +9,7 @@ import UserRoutes from './routes/UserRoutes';
 import ShopRoutes from './routes/ShopRoutes';
 import InventoryRoutes from './routes/InventoryRoutes'
 import salesRoutes from './routes/SalesRoutes';
+import ExpenseRoutes from './routes/ExpenseRoutes';
 
 
 const app = express();
@@ -22,6 +23,7 @@ app.use('/user', UserRoutes);
 app.use('/shop', ShopRoutes);
 app.use('/inventory', InventoryRoutes);
 app.use('/sales', salesRoutes);
+app.use('/expense', ExpenseRoutes);
 
 // databse syncing
 sequelize.sync({ force: false }).then(() => {

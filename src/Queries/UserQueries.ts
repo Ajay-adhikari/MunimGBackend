@@ -16,7 +16,7 @@ UserDB.insertUser = async ({ name, email, password, phone }: UserType) => {
 }
 
 UserDB.getUser = async ({ id }: UserType) => {
-    const query = `SELECT * FROM Users WHERE id = ? `;
+    const query = `SELECT * FROM Users WHERE id=?`;
     const result = await sequelize.query(query,
         {
             replacements: [id],

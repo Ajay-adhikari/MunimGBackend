@@ -19,7 +19,7 @@ User.register = async (req: Request, res: Response) => {
     try {
         const { name, email, password, phone } = req.body;
         log.info(`[${C}][${F}], Email: [${email}], Password: [${password}], Phone: [${phone}], Name: [${name}]`);
-        const alreadyExist = await UserDB.getUser({ email, phone });
+        const alreadyExist = await UserDB.getUserByEmail({ email });
         if (alreadyExist) {
             log.info(`[${C}][${F}],${email} already exists`);
             return res.status(400).json({
@@ -74,7 +74,7 @@ User.login = async (req: Request, res: Response) => {
             email: user.email,
         },
             secretJWT,
-            { expiresIn: '1D' });
+            { expiresIn: '10D' });
 
         return res.status(200).json({
             message: "Logged in successfully",
@@ -114,6 +114,8 @@ User.getUserDetails = async (req: CustomRequest, res: CustomResponse) => {
         const totalExpense = await ExpenseDB.getTotalExpense({ id });
         const totalShops = await ShopsDB.totalShops({ id });
         const pendingMoney = await CustomerCreditsDB.getPendingMoney({ id: id });
+        const todaySale = await SalesDB.getTodaySale({ id });
+        const totalItemSaleToday = await SalesDB.getTodayItemSale({ id });
 
         log.info(`[${C}][${F}], Total Sale: [${totalSale}], Total Expense: [${totalExpense}], Total Shops: [${totalShops}], Pending Money: [${pendingMoney}], Details fetched successfully`);
         return res.status(200).json({

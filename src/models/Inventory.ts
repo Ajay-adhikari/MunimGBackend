@@ -5,7 +5,7 @@ const createInvetoryTable = async () => {
         // Check if the Users table exists, and create it if it doesn't
         const result = await sequelize.query(`
       CREATE TABLE IF NOT EXISTS Inventory (
-    id INT  PRIMARY KEY,
+    id INT AUTO_INCREMENT  PRIMARY KEY,
     shopId INT,
     name VARCHAR(255) NOT NULL,
     sellingPrice DECIMAL(10, 2) NOT NULL,

@@ -7,7 +7,7 @@ import e from "express";
 const SalesDB: any = {};
 
 SalesDB.getTotalSale = async ({ id }: UserType) => {
-    const query = `SELECT SUM(s.amount) AS amount FROM  sales s JOIN shops sh ON s.shopId = sh.id JOIN users u ON sh.userId = u.id WHERE u.id = ?`;
+    const query = `SELECT SUM(s.amount) AS amount FROM  Sales s JOIN Shops sh ON s.shopId = sh.id JOIN Users u ON sh.userId = u.id WHERE u.id = ?`;
     const result = await sequelize.query(query,
         {
             replacements: [id],
@@ -19,7 +19,7 @@ SalesDB.getTotalSale = async ({ id }: UserType) => {
 }
 
 SalesDB.add = async ({ productId, shopId, profit, quantity, amount }: SalesType) => {
-    const query = `INSERT INTO sales (productId, shopId, quantity, amount, profit) VALUES (?, ?, ?, ?, ?)`;
+    const query = `INSERT INTO Sales (productId, shopId, quantity, amount, profit) VALUES (?, ?, ?, ?, ?)`;
     const result = await sequelize.query(query,
         {
             replacements: [productId, shopId, quantity, amount, profit],
@@ -30,7 +30,7 @@ SalesDB.add = async ({ productId, shopId, profit, quantity, amount }: SalesType)
 }
 
 SalesDB.updateSale = async ({ productId, shopId, profit, quantity, amount, id }: SalesType) => {
-    const query = `UPDATE sales SET quantity = quantity + ?, amount = amount + ?, profit = profit + ? WHERE id = ?`;
+    const query = `UPDATE Sales SET quantity = quantity + ?, amount = amount + ?, profit = profit + ? WHERE id = ?`;
     const result = await sequelize.query(query,
         {
             replacements: [productId, shopId, quantity, amount, profit, id],
@@ -41,7 +41,7 @@ SalesDB.updateSale = async ({ productId, shopId, profit, quantity, amount, id }:
 }
 
 SalesDB.getSaleForToday = async ({ productId, shopId }: SalesType) => {
-    const query = `SELECT * FROM sales WHERE productId = ? and shopId = ?  AND DATE(createdAt) = CURDATE()`;
+    const query = `SELECT * FROM Sales WHERE productId = ? and shopId = ?  AND DATE(createdAt) = CURDATE()`;
     const result = await sequelize.query(query,
         {
             replacements: [productId, shopId],

@@ -8,7 +8,7 @@ const InventorySchema = z.object({
     quantity: z.number().gt(0, "Must be greater than 0").positive("Quantity must be a positive number"),
     createdAt: z.string().datetime(),
     updatedAt: z.string().datetime(),
-    margin: z.number().gt(0, "Must be greater than 0").positive("Margin must be a positive number"),
+    margin: z.number(),
     costPrice: z.number().gt(0, "Must be greater than 0").positive("Cost price must be a positive number"),
 });
 
