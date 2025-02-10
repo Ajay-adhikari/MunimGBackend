@@ -52,4 +52,29 @@ SalesDB.getSaleForToday = async ({ productId, shopId }: SalesType) => {
     return 0;
 }
 
+SalesDB.getTodaySale = async ({ shopId }: SalesType) => {
+    const query = `SELECT SUM(amount) AS totalSale  FROM Sales WHERE shopId = ? AND DATE(createdAt) = CURRENT_DATE;`;
+    const result = await sequelize.query(query,
+        {
+            replacements: [shopId],
+            type: QueryTypes.SELECT
+        }
+    )
+    if (result.length > 0) return result[0];
+    return 0;
+}
+
+SalesDB.getTodayItemSale = async ({ shopId }: SalesType) => {
+    const query = `SELECT SUM(quantity) AS totalItemSold  FROM Sales WHERE shopId = ? AND DATE(createdAt) = CURRENT_DATE;
+`;
+    const result = await sequelize.query(query,
+        {
+            replacements: [shopId],
+            type: QueryTypes.SELECT
+        }
+    )
+    if (result.length > 0) return result[0];
+    return 0;
+}
+
 export default SalesDB;

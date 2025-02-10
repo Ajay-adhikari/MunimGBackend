@@ -102,7 +102,8 @@ User.getUserDetails = async (req: CustomRequest, res: CustomResponse) => {
     const F = "getUserDetails";
     try {
         const id = req.id;
-        log.info(`[${C}][${F}], User ID: [${id}]`);
+        const { shopId } = req.query;
+        log.info(`[${C}][${F}], User ID: [${id}], Shop ID: [${shopId}]`);
         const user = await UserDB.getUser({ id });
         if (!user) {
             log.info(`[${C}][${F}], User not found`);
@@ -110,12 +111,18 @@ User.getUserDetails = async (req: CustomRequest, res: CustomResponse) => {
                 message: "User not found"
             })
         }
+        let todaySale: any = 0;
+        let totalItemSaleToday: any = 0;
+        let todayExpense: any = 0;
         const totalSale = await SalesDB.getTotalSale({ id });
         const totalExpense = await ExpenseDB.getTotalExpense({ id });
         const totalShops = await ShopsDB.totalShops({ id });
         const pendingMoney = await CustomerCreditsDB.getPendingMoney({ id: id });
-        const todaySale = await SalesDB.getTodaySale({ id });
-        const totalItemSaleToday = await SalesDB.getTodayItemSale({ id });
+        if (shopId) {
+            todaySale = await SalesDB.getTodaySale({ shopId });
+            totalItemSaleToday = await SalesDB.getTodayItemSale({ shopId });
+            todayExpense = await ExpenseDB.todayExpense({ id });
+        }
 
         log.info(`[${C}][${F}], Total Sale: [${totalSale}], Total Expense: [${totalExpense}], Total Shops: [${totalShops}], Pending Money: [${pendingMoney}], Details fetched successfully`);
         return res.status(200).json({
@@ -127,6 +134,9 @@ User.getUserDetails = async (req: CustomRequest, res: CustomResponse) => {
                 totalexpense: totalExpense.totalExpense || 0,
                 totalshops: totalShops.totalShops || 0,
                 pendingmoney: pendingMoney.totalAmount || 0,
+                todaysale: shopId ? todaySale.totalSale || 0 : 0,
+                totalitemsale: shopId ? totalItemSaleToday.totalItemSold || 0 : 0,
+                todayExpense: shopId ? todayExpense.totalExpense || 0 : 0
             }
         })
     }

@@ -2,10 +2,10 @@ import { QueryTypes } from "sequelize";
 import sequelize from "../config/database";
 import { UserType } from "../Schemas/UserSchema";
 import { ExpenseType } from "../Schemas/ExpenseSchema";
+import Expense from "../controllers/ExpenseController";
 const ExpenseDB: any = {};
 
 ExpenseDB.getTotalExpense = async ({ id }: UserType) => {
-    console.log("expenseDb");
     const query = `SELECT SUM(e.amount) AS totalExpense FROM Expenses e JOIN Shops sh ON e.shopId = sh.id JOIN Users u ON sh.userId = u.id WHERE u.id = ?`;
     const result = await sequelize.query(query,
         {
@@ -16,6 +16,16 @@ ExpenseDB.getTotalExpense = async ({ id }: UserType) => {
     if (result.length > 0) return result[0];
     return 0;
 }
+
+ExpenseDB.todayExpense = async ({ id }: UserType) => {
+    const query = `SELECT SUM(e.amount) AS totalExpense FROM Expenses e JOIN Shops sh ON e.shopId = sh.id JOIN Users u ON sh.userId = u.id WHERE u.id = ? and e.createdAt = CURRENT_DATE`;
+    const result = await sequelize.query(query, {
+        replacements: [id],
+        type: QueryTypes.SELECT
+    })
+    return result;
+}
+
 
 ExpenseDB.add = async ({ shopId, amount, description, category, paymentMode, paidTo }: ExpenseType) => {
     const query = `INSERT INTO Expenses (shopId, amount, description, category, paymentMode, paidTo) VALUES (?, ?, ?, ?, ?, ?)`;
